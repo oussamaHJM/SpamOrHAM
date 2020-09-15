@@ -18,3 +18,13 @@ C:\Users\oussama\Desktop\ProjetNeurones\ProjetNeurones\obj\Debug\ProjetNeurones.
 C:\Users\oussama\Desktop\ProjetNeurones\ProjetNeurones\obj\Debug\ProjetNeurones.csproj.CopyComplete
 C:\Users\oussama\Desktop\ProjetNeurones\ProjetNeurones\obj\Debug\ProjetNeurones.exe
 C:\Users\oussama\Desktop\ProjetNeurones\ProjetNeurones\obj\Debug\ProjetNeurones.pdb
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\bin\Debug\ProjetNeurones.exe.config
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\bin\Debug\ProjetNeurones.exe
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\bin\Debug\ProjetNeurones.pdb
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\bin\Debug\Console.dll
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\bin\Debug\Console.pdb
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\obj\Debug\ProjetNeurones.csprojAssemblyReference.cache
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\obj\Debug\ProjetNeurones.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\obj\Debug\ProjetNeurones.csproj.CopyComplete
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\obj\Debug\ProjetNeurones.exe
+C:\Users\oussa\Documents\GitHub\SpamOrHAM\ProjetNeurones\obj\Debug\ProjetNeurones.pdb
